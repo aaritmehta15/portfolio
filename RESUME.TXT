@@ -1,0 +1,75 @@
+Aarit Mehta
+Phone: +91 8850290019
+Email: [aaritmehta152005@gmail.com](mailto:aaritmehta152005@gmail.com)
+LinkedIn: [https://www.linkedin.com/in/aarit-mehta-949597229/](https://www.linkedin.com/in/aarit-mehta-949597229/)
+GitHub: [https://github.com/aaritmehta15](https://github.com/aaritmehta15)
+
+Profile
+AI & Data Science undergraduate specializing in Generative AI, LLM development, and production ML systems.
+Proven ability to build end-to-end AI systems using FastAPI, from data pipelines to production deployment. Seeking roles in AI/ML, Data, and Software Engineering.
+
+Education
+K. J. Somaiya College of Engineering, Mumbai
+B.Tech, Artificial Intelligence & Data Science
+Cumulative GPA: 9.51 / 10.0
+2023 – 2027
+Relevant Coursework: Deep Learning, Machine Learning, Artificial Intelligence, Data Structures and Algorithms, DBMS
+
+Experience
+
+AI Intern
+May 2025 – July 2025
+Ashna AI, Noida
+Drove research into automated question generation by fine-tuning T5 transformers, contributing to a more accurate and robust NLP system.
+Architected end-to-end PyTorch data pipelines for text formatting and tokenization to support systematic fine-tuning experiments on the SQuAD dataset.
+
+Machine Learning Intern
+May 2025 – July 2025
+Suvidha Foundation, Mumbai (Hybrid)
+Led the complete project lifecycle of a text summarization tool, from data acquisition to deploying a T5-small model for a social impact initiative.
+Owned the model evaluation phase, establishing benchmarks and delivering a final model meeting 95 percent accuracy and speed requirements.
+
+Backend Development Intern
+Feb 2025 – May 2025
+K. J. Somaiya College of Engineering, Mumbai
+Developed an AI-powered fitness platform with 12 Flask REST endpoints, a Random Forest model for mental fitness prediction, and LLaMA integration for exercise recommendations.
+
+Projects
+
+Adaptive Trust-Aware Persuasion System for Donation Campaigns
+GitHub: [https://github.com/aaritmehta15/Adaptive-Trust-Aware-Persuasion-System](https://github.com/aaritmehta15/Adaptive-Trust-Aware-Persuasion-System)
+Pioneered a trust-constrained LLM framework demonstrating ethical AI persuasion with Llama 3.1-8B across 15-turn conversations.
+Built a production FastAPI infrastructure with 8 endpoints, 38 NLP patterns with 90 percent confidence, and telemetry enabling A/B testing.
+
+Intent-Driven Autonomous EV Fleet Command System
+GitHub: [https://github.com/aaritmehta15/GDG_Agentic_Fleet_Command](https://github.com/aaritmehta15/GDG_Agentic_Fleet_Command)
+Architected an AI-powered fleet backend integrating Google Gemma-7B for real-time decision reasoning, processing 6 event types and over 1,900 penalty calculations.
+Built a production FastAPI system with 23 REST endpoints supporting driver fatigue compliance, multilingual support, and trust scoring with explainable AI.
+
+Interpretable AI for High-Stakes Credit Risk Assessment
+GitHub: [https://github.com/aaritmehta15/explainable-ai-credit-risk-app](https://github.com/aaritmehta15/explainable-ai-credit-risk-app)
+Engineered a credit risk model achieving 96.7 percent AUC-ROC on more than 32,500 loan applications using LightGBM with SHAP and LIME for fairness and compliance.
+Built an interactive Streamlit dashboard for real-time model analysis and stakeholder interpretation.
+
+LLM Personality Evaluation Suite
+GitHub: [https://github.com/aaritmehta15/LLM-Personality-Suite](https://github.com/aaritmehta15/LLM-Personality-Suite)
+Built a comprehensive framework for evaluating LLM personality simulation using BFI-44 based experimental design and generative text analysis, testing models such as Gemma.
+
+AI-Powered Mental Fitness Platform
+GitHub: [https://github.com/aaritmehta15/Mental_Fitness](https://github.com/aaritmehta15/Mental_Fitness)
+Developed a mental fitness prediction and recommendation system with ML-based assessment and a web-based interface.
+
+Technical Skills
+
+AI and Machine Learning: PyTorch, Scikit-learn, Hugging Face, Large Language Models (Gemma, Llama), Fine-Tuning, Prompt Engineering, NLP, Explainable AI (SHAP, LIME), LightGBM, XGBoost
+Programming Languages: Python, SQL, Java
+Backend and Tools: FastAPI, Flask, REST APIs, Git, GitHub, Render, Vercel, Docker (basic)
+Databases: MySQL, PostgreSQL, MongoDB
+Data and Visualization: NumPy, Pandas, Streamlit, Tableau, Matplotlib, Plotly
+
+Leadership and Activities
+
+Workshop Lead
+July 2024 – May 2025
+KJSCE Codecell, Mumbai
+Coordinated contests for over 100 students, led competitive programming workshops, and increased the event budget by 15 percent through sponsorships.
