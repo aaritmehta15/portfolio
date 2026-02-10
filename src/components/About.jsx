@@ -344,7 +344,6 @@ const About = () => {
                             { value: '9.51', suffix: '/10', label: 'GPA' },
                             { value: '3', suffix: '+', label: 'INTERNSHIPS' },
                             { value: '5', suffix: '+', label: 'AI PROJECTS' },
-                            { value: '100', suffix: '+', label: 'STUDENTS LED' },
                         ].map((stat, i) => (
                             <motion.div
                                 key={stat.label}

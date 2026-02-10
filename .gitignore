@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Private files
+RESUME.TXT
+frontend-design/
+interactive-portfolio/
